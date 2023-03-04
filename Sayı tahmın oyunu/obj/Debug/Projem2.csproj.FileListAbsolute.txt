@@ -1,0 +1,11 @@
+C:\Users\srdl_\source\repos\Projem2\Projem2\obj\Debug\Projem2.csproj.AssemblyReference.cache
+C:\Users\srdl_\source\repos\Projem2\Projem2\obj\Debug\Projem2.Form1.resources
+C:\Users\srdl_\source\repos\Projem2\Projem2\obj\Debug\Projem2.Properties.Resources.resources
+C:\Users\srdl_\source\repos\Projem2\Projem2\obj\Debug\Projem2.csproj.GenerateResource.cache
+C:\Users\srdl_\source\repos\Projem2\Projem2\obj\Debug\Projem2.csproj.CoreCompileInputs.cache
+C:\Users\srdl_\source\repos\Projem2\Projem2\bin\Debug\Projem2.exe.config
+C:\Users\srdl_\source\repos\Projem2\Projem2\bin\Debug\Projem2.exe
+C:\Users\srdl_\source\repos\Projem2\Projem2\bin\Debug\Projem2.pdb
+C:\Users\srdl_\source\repos\Projem2\Projem2\obj\Debug\Projem2.exe
+C:\Users\srdl_\source\repos\Projem2\Projem2\obj\Debug\Projem2.pdb
+C:\Users\srdl_\source\repos\Projem2\Projem2\obj\Debug\Projem2.Form2.resources
